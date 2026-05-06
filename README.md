@@ -10,3 +10,4 @@ Hi, I'm Earl. I am a high school student at GCI, and I am curently learning pyth
 gci.253649@geneseeisd.org
 ## other links
 https://github.com/gci253649
+https://www.linkedin.com/in/earl-ekleberry-636882408
