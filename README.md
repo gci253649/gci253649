@@ -1,16 +1,12 @@
 ## Hi there 👋
+My name is Earl. 
+I am a high school student learning python. 
+🌱 I’m currently learning: python 
+👀 I’m interested in: game design 
+📫 How to reach me: gci.253649@students.geneseeisd.org 
 
-<!--
-**gci253649/gci253649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Earl. I am a high school student at GCI, and I am curently learning python. I'm interested in learning about game design.
+## my email
+gci.253649@geneseeisd.org
+## other links
+https://github.com/gci253649
